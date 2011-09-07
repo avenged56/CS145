@@ -1,0 +1,880 @@
+!SESSION 2011-08-18 19:44:51.074 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2011-08-18 19:53:47.459
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!SESSION 2011-08-19 14:31:21.253 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\sstrenn\workspace-se -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.jobs 2 2 2011-08-19 15:05:55.525
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
+!SESSION 2011-08-19 17:20:56.912 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:28:35.822
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:28:35.822
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:28:35.822
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:28:35.822
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:28:35.838
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:28:35.838
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:28:35.838
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:28:35.838
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:29:36.350
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:29:36.350
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:29:36.350
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:29:36.350
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:29:36.350
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:29:36.350
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:29:36.350
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:29:36.350
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:30:30.747
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:30:30.747
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:30:30.747
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:30:30.747
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:30:30.747
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:30:30.747
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:30:30.747
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:30:30.747
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:35:21.123
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:35:21.123
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:35:21.123
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:35:21.123
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:35:38.111
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:35:38.111
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:35:38.111
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:35:38.111
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:35:54.414
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:35:54.414
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:35:54.414
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:35:54.414
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+!SESSION 2011-08-19 17:36:39.779 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:36:57.080
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:36:57.080
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:36:57.080
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:36:57.080
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:38:09.262
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:38:09.262
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:38:09.262
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:38:09.262
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:38:09.262
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:38:09.262
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:38:09.262
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:38:09.262
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:39:01.288
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:39:01.288
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:39:01.288
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:39:01.288
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:39:01.288
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:39:01.288
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:39:01.288
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:39:01.288
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:40:29.132
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:40:29.132
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:40:29.132
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:40:29.132
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:40:29.147
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:40:29.147
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:40:29.147
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:40:29.147
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:43:08.475
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:43:08.475
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:43:08.475
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:43:08.475
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:43:08.475
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:43:08.475
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:43:08.475
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:43:08.475
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+!SESSION 2011-08-19 17:50:04.948 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\compsciadmin\Desktop\workspace-se
+
+!ENTRY org.eclipse.core.jobs 2 2 2011-08-19 17:52:03.103
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.repository.RepositoryRegistryUpdateJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2011-08-19 17:52:03.103
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
+!SESSION 2011-08-19 17:53:43.273 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 17:54:24.129
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 17:54:24.129
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:54:24.129
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 17:54:24.129
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.core.jobs 2 2 2011-08-19 17:54:48.231
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2011-08-19 17:54:48.231
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.repository.RepositoryRegistryUpdateJob
+!SESSION 2011-08-19 18:05:41.549 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:06:11.221
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:06:11.221
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:06:11.221
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:06:11.221
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:08:49.717
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:08:49.717
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:08:49.717
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:08:49.717
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:12:08.462
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:12:08.462
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:12:08.462
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:12:08.462
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:13:51.172
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:13:51.172
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:13:51.172
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:13:51.172
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:14:16.039
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:14:16.039
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:14:16.039
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:14:16.039
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:14:43.838
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:14:43.838
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:14:43.838
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:14:43.838
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:15:02.262
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:15:02.262
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:15:02.262
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:15:02.262
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:17:23.301
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:17:23.301
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:17:23.301
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:17:23.301
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:18:01.132
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:18:01.132
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:18:01.132
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:18:01.132
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:22:20.512
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:22:20.512
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:22:20.512
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:22:20.512
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:23:02.242
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:23:02.242
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:23:02.242
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:23:02.242
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:23:13.849
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:23:13.849
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:23:13.849
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:23:13.849
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:24:21.381
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:24:21.381
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:24:21.381
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:24:21.381
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-08-19 18:27:16.320
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-08-19 18:27:16.320
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:27:16.320
+!MESSAGE Software currently installed: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-08-19 18:27:16.320
+!MESSAGE Missing requirement: Shared profile 1.0.0.1308118821836 (SharedProfile_epp.package.java 1.0.0.1308118821836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+!SESSION 2011-08-19 18:41:05.774 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2011-08-19 18:48:29.084
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:793)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:130)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete '/SayHelloTest/lib'.
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:387)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1939)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:130)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\commons-io-2.0.1.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.commands_3.6.0.I20110111-0800.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.runtime_3.7.0.v20110110.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.common_3.6.0.v20110523.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.registry_3.5.100.v20110502.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.jface_3.7.0.I20110522-1430.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib.
+Contains: Could not delete 'C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest'.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.084
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete '/SayHelloTest/lib'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:387)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1939)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:130)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\commons-io-2.0.1.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.commands_3.6.0.I20110111-0800.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.runtime_3.7.0.v20110110.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.common_3.6.0.v20110523.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.registry_3.5.100.v20110502.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.jface_3.7.0.I20110522-1430.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib.
+!SUBENTRY 3 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.084
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\commons-io-2.0.1.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.commands_3.6.0.I20110111-0800.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.runtime_3.7.0.v20110110.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.common_3.6.0.v20110523.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.registry_3.5.100.v20110502.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.jface_3.7.0.I20110522-1430.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete 'C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest'.
+
+!ENTRY org.eclipse.core.resources 4 273 2011-08-19 18:48:29.084
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.084
+!MESSAGE Could not delete '/SayHelloTest/lib'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:387)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1939)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:130)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\commons-io-2.0.1.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.commands_3.6.0.I20110111-0800.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.runtime_3.7.0.v20110110.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.common_3.6.0.v20110523.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.registry_3.5.100.v20110502.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.jface_3.7.0.I20110522-1430.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar.
+Contains: Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.100
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 3 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\commons-io-2.0.1.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.commands_3.6.0.I20110111-0800.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.core.runtime_3.7.0.v20110110.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.common_3.6.0.v20110523.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.equinox.registry_3.5.100.v20110502.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.jface_3.7.0.I20110522-1430.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib\org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete: C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest\lib.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2011-08-19 18:48:29.100
+!MESSAGE Could not delete 'C:\Users\compsciadmin\Desktop\workspace-se\SayHelloTest'.
+
+!ENTRY org.eclipse.ui 4 0 2011-08-19 18:48:39.739
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:601)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:567)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:490)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass_LockClassName(ClasspathManager.java:469)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:456)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:400)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:429)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.loader.BundleLoader.loadClass(BundleLoader.java:345)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.loadClass(BundleHost.java:229)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.loadClass(AbstractBundle.java:1207)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.loadHandler(HandlerProxy.java:350)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.isEnabled(HandlerProxy.java:319)
+	at org.eclipse.core.commands.Command.isEnabled(Command.java:833)
+	at org.eclipse.core.commands.Command.setHandler(Command.java:965)
+	at org.eclipse.ui.internal.handlers.HandlerAuthority.updateCommand(HandlerAuthority.java:457)
+	at org.eclipse.ui.internal.handlers.HandlerAuthority.deactivateHandler(HandlerAuthority.java:312)
+	at org.eclipse.ui.internal.handlers.HandlerService.deactivateHandler(HandlerService.java:148)
+	at org.eclipse.ui.internal.handlers.HandlerService.deactivateHandlers(HandlerService.java:157)
+	at org.eclipse.ui.internal.handlers.HandlerPersistence.clearActivations(HandlerPersistence.java:104)
+	at org.eclipse.ui.internal.handlers.HandlerPersistence.dispose(HandlerPersistence.java:125)
+!SESSION 2011-09-05 15:23:03.397 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2011-09-05 15:41:57.744
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for C [in C.class [in org.eclipse.swt.internal [in lib/org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar [in JThompsonDrawPoints]]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:77)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:462)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:95)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:58)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:555)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2011-09-05 15:41:57.745
+!MESSAGE Unknown javadoc format for C [in C.class [in org.eclipse.swt.internal [in lib/org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar [in JThompsonDrawPoints]]]]
+!SESSION 2011-09-06 18:33:20.022 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 0 2011-09-06 18:33:32.792
+!MESSAGE Unable to create editor ID org.eclipse.ui.DefaultTextEditor: The file does not exist.
+!STACK 1
+org.eclipse.core.runtime.CoreException: The file does not exist.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:237)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4213)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1451)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:169)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3200)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.window.ApplicationWindow$1.run(ApplicationWindow.java:759)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.window.ApplicationWindow.run(ApplicationWindow.java:756)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2642)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3218)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3245)
+	at org.eclipse.ui.internal.EditorManager.createSite(EditorManager.java:828)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:647)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1213)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1409)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1495)
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1485)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1459)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1523)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$23.run(AbstractTextEditor.java:4313)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 1 org.eclipse.core.filebuffers 4 0 2011-09-06 18:33:32.793
+!MESSAGE The file does not exist.
+
+!ENTRY org.eclipse.ui 2 2 2011-09-06 18:33:32.809
+!MESSAGE Ignored attempt to add saveable that was already registered
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@bc3780 from part: org.eclipse.ui.internal.ErrorEditorPart@bc3780
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.addModel(SaveablesList.java:117)
+	at org.eclipse.ui.internal.SaveablesList.addModels(SaveablesList.java:289)
+	at org.eclipse.ui.internal.SaveablesList.postOpen(SaveablesList.java:695)
+	at org.eclipse.ui.internal.PartList.partOpened(PartList.java:234)
+	at org.eclipse.ui.internal.PartList.access$0(PartList.java:210)
+	at org.eclipse.ui.internal.PartList$1.propertyChanged(PartList.java:40)
+	at org.eclipse.ui.internal.WorkbenchPartReference.fireInternalPropertyChange(WorkbenchPartReference.java:375)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:610)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1213)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1409)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1495)
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1485)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1459)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1523)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$23.run(AbstractTextEditor.java:4313)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-09-07 15:14:30.330
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:14:30.330
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.330
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.330
+!MESSAGE Missing requirement: Mylyn GitHub Connector Core 1.1.0.201109071412 (org.eclipse.mylyn.github.core 1.1.0.201109071412) requires 'package org.eclipse.jgit.lib [1.1.0,1.2.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:14:30.331
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.331
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.331
+!MESSAGE To: org.eclipse.mylyn.github.core [1.1.0.201109071412]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-09-07 15:14:30.337
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:14:30.337
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.337
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.337
+!MESSAGE Missing requirement: Mylyn GitHub Connector Core 1.1.0.201109071412 (org.eclipse.mylyn.github.core 1.1.0.201109071412) requires 'package org.eclipse.jgit.lib [1.1.0,1.2.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:14:30.337
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.337
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:14:30.337
+!MESSAGE To: org.eclipse.mylyn.github.core [1.1.0.201109071412]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-09-07 15:15:01.984
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:15:01.984
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.984
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.984
+!MESSAGE Missing requirement: Mylyn GitHub Connector Core 1.1.0.201109071412 (org.eclipse.mylyn.github.core 1.1.0.201109071412) requires 'package org.eclipse.jgit.lib [1.1.0,1.2.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:15:01.984
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.984
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.984
+!MESSAGE To: org.eclipse.mylyn.github.core [1.1.0.201109071412]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-09-07 15:15:01.985
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:15:01.985
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.985
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.985
+!MESSAGE Missing requirement: Mylyn GitHub Connector Core 1.1.0.201109071412 (org.eclipse.mylyn.github.core 1.1.0.201109071412) requires 'package org.eclipse.jgit.lib [1.1.0,1.2.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-09-07 15:15:01.985
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.985
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 1.1.0.201109071412 (org.eclipse.mylyn.github.feature.feature.group 1.1.0.201109071412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-09-07 15:15:01.985
+!MESSAGE To: org.eclipse.mylyn.github.core [1.1.0.201109071412]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2011-09-07 15:15:20.217
+!MESSAGE HTTP Request Not Acceptable: http://gist.github.com/content.xml
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: HTTP Request Not Acceptable: http://gist.github.com/content.xml
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:189)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:749)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:402)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:120)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:70)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2011-09-07 15:15:20.218
+!MESSAGE HTTP Request Not Acceptable: http://gist.github.com/content.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 2 org.eclipse.ecf.identity 4 0 2011-09-07 15:15:20.218
+!MESSAGE HttpClient connection error response code 406.
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2011-09-07 15:15:22.293
+!MESSAGE HTTP Request Not Acceptable: http://gist.github.com/content.xml
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: HTTP Request Not Acceptable: http://gist.github.com/content.xml
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:189)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:749)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:402)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:120)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getRepository(MetadataRepositoryElement.java:109)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getQueryable(MetadataRepositoryElement.java:103)
+	at org.eclipse.equinox.internal.p2.ui.QueryProvider.getQueryDescriptor(QueryProvider.java:88)
+	at org.eclipse.equinox.internal.p2.ui.model.QueriedElement.fetchChildren(QueriedElement.java:101)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:72)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2011-09-07 15:15:22.294
+!MESSAGE HTTP Request Not Acceptable: http://gist.github.com/content.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 2 org.eclipse.ecf.identity 4 0 2011-09-07 15:15:22.294
+!MESSAGE HttpClient connection error response code 406.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2011-09-07 15:26:03.582
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: HTTP Request Not Acceptable: http://gist.github.com/content.xml
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:189)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:749)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2011-09-07 15:26:03.583
+!MESSAGE HTTP Request Not Acceptable: http://gist.github.com/content.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 2 org.eclipse.ecf.identity 4 0 2011-09-07 15:26:03.583
+!MESSAGE HttpClient connection error response code 406.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2011-09-07 15:26:03.584
+!MESSAGE HTTP Request Not Acceptable: http://gist.github.com/content.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 406.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2011-09-07 15:26:03.584
+!MESSAGE HttpClient connection error response code 406.

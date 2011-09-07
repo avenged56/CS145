@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Swt_3_1_2_ProjectTemplate/lib/swt.jar">
+		<attributes>
+			<attribute value="http://help.eclipse.org/help31/nftopic/org.eclipse.platform.doc.isv/reference/api" name="javadoc_location"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

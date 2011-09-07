@@ -1,0 +1,5 @@
+#Thu Aug 18 19:54:53 PDT 2011
+eclipse.preferences.version=1
+innerClassName=${Component_name}${Listener_name}
+property.events.codeType=1
+textVariable.template=${text}${class_name}
